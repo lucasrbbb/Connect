@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656708272 source:c:\users\acer\desktop\connect\algoritmos\listas\lista 01\exercicio_14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657654536 source:c:\users\acer\desktop\connect\algoritmos\listas\lista 02\lista02_ex12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
